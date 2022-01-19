@@ -1,3 +1,3 @@
 # React-SW
 
-nmp i - install current project
+npm i
