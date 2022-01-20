@@ -1,6 +1,7 @@
 {
   "name": "react-star-wars",
   "version": "0.1.0",
+  "homepage": "https://mondus-bridge.github.io/React-SW/",
   "private": true,
   "dependencies": {
     "classnames": "^2.3.1",
